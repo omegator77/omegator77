@@ -1,16 +1,21 @@
-## Hi there 👋
+# materialdispo
 
-<!--
-**omegator77/omegator77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Webanwendung zur Disposition von Material und Software, gebaut für den Alltag bei
+Live-Übertragungen und Ü-Wagen.
 
-Here are some ideas to get you started:
+## Wofür?
+Welches Material und welche Software wird für welche Übertragung gebraucht, wo ist
+es, und wer hat es? materialdispo bildet das ab, statt es in Tabellen und Zetteln
+zu verwalten.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Funktionen
+- (hier 3 bis 5 Stichpunkte, z. B. Material anlegen, Übertragungen planen, Verfügbarkeit)
+
+## Technik
+PHP (hier ergänzen: Datenbank, Framework)
+
+## Installation
+(hier kurz: Voraussetzungen und Schritte)
+
+## Screenshot
+(ein Bild der Oberfläche)
