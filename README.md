@@ -1,21 +1,28 @@
-# materialdispo
+# Hallo, ich bin Carlo 👋
 
-Webanwendung zur Disposition von Material und Software, gebaut für den Alltag bei
-Live-Übertragungen und Ü-Wagen.
+Fachinformatiker für Systemintegration (Note 1,3) und Toningenieur mit über 15 Jahren
+Erfahrung in Live-Übertragungen. Ich arbeite an der Schnittstelle von Netzwerktechnik
+und Sendebetrieb: Ü-Wagen-Netzwerke, Audio-over-IP und stabile Signalwege unter
+Live-Bedingungen.
 
-## Wofür?
-Welches Material und welche Software wird für welche Übertragung gebraucht, wo ist
-es, und wer hat es? materialdispo bildet das ab, statt es in Tabellen und Zetteln
-zu verwalten.
+## Schwerpunkte
 
-## Funktionen
-- (hier 3 bis 5 Stichpunkte, z. B. Material anlegen, Übertragungen planen, Verfügbarkeit)
+- **Audio-over-IP:** Dante, AES67
+- **Netzwerk:** VLAN, QoS, PTP/IEEE-1588, Wireshark
+- **Broadcast-Hardware:** Lawo, Riedel, Cisco, HPE
+- **Software:** Webanwendungen für den Produktionsalltag (PHP, TypeScript, JavaScript)
 
-## Technik
-PHP (hier ergänzen: Datenbank, Framework)
+## Projekte
 
-## Installation
-(hier kurz: Voraussetzungen und Schritte)
+### [materialdispo](https://github.com/omegator77/materialdispo)
+Webanwendung zur Disposition von Material und Software, angepasst auf den Broadcast-
+und Ü-Wagen-Bereich.
 
-## Screenshot
-(ein Bild der Oberfläche)
+### [intercom-manager](https://github.com/omegator77/intercom-manager) und [intercom-frontend](https://github.com/omegator77/intercom-frontend)
+Mein Fork der Open-Source-Intercom-Lösung von [Eyevinn](https://github.com/Eyevinn)
+(WebRTC, latenzarme Sprachkommunikation). Ich habe eine **eigene Benutzerverwaltung
+und Authentifizierung** ergänzt, die das Original nicht mitbringt.
+
+## Kontakt
+
+📧 mail@carlokeysser.de
